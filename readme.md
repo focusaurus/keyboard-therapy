@@ -133,4 +133,8 @@ Is this available retail?
 
 # v5 (2021?)
 
-I want to build something like this vertical dactyl manuform
+I want to build something like this vertical dactyl manuform. The maker has extensive notes etc, but does indicate this is several months worth of weekends to tackle.
+
+![tractyl](https://preview.redd.it/dbd9c59529u51.jpg?width=960&height=735&crop=smart&auto=webp&s=0d2d7fbc077ac0108c1dd78e30b128a152b449ed)
+
+[reddit post](https://www.reddit.com/r/MechanicalKeyboards/comments/jep8gv/tractyl_manuform_dactyl_with_builtin_trackball/)
