@@ -71,6 +71,8 @@ This repo serves 2 main purposes:
 
 - Thinking about buying/building another fancy keeb but not quite ready for hand wiring, custom PCBs, full-on late-game project yet. Something achievable in a few weekends
 - Honestly the ergodox is still mostly working great
+- CONTENT WARNING: MECHANICAL KEYBOARD ENTHUSIAST BLASPHEMY BELOW
+- Stop reading now if you are all about the click
 - Some minor motivations
   - Would like lower-travel keys
     - I find a lot of my strain and slowness is how far I have to lift my fingers back up after pressing a key with a lot of travel
@@ -138,3 +140,7 @@ I want to build something like this vertical dactyl manuform. The maker has exte
 ![tractyl](https://preview.redd.it/dbd9c59529u51.jpg?width=960&height=735&crop=smart&auto=webp&s=0d2d7fbc077ac0108c1dd78e30b128a152b449ed)
 
 [reddit post](https://www.reddit.com/r/MechanicalKeyboards/comments/jep8gv/tractyl_manuform_dactyl_with_builtin_trackball/)
+
+# v9000
+
+At some point I want a split vertical keyboard custom built with small and tightly packed keys. Each thumb will get a track ball (or maybe directional pad, or maybe a track point) and a semicircle of small keys. All the layers will be ambidextrous and symmetric. All the layer switching will be truly independent across the hands.
