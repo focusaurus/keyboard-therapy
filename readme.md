@@ -1,5 +1,11 @@
 # Introduction
 
+This repo serves 2 main purposes:
+
+1. a place for me to write down my keyboard journey and thus a tool for thinking
+2. A forum where my friends who share my keyboard obsession can help me progress and choose when I feel unsure or overwhelmed. These friends are currently distributed across various slacks, forums, etc and I want a personal place to gather their input. I call these my "keyboard therapists". The pay is not good.
+3. Ultimately I'd like to write or contribute to a comprehensive guide
+
 # v0 (1990s)
 
 - Improper 6-finger qwerty touch typing
@@ -77,6 +83,7 @@
   - Most put 2 or 3 "thumb" keys under the palm of the hand. I have no idea why but I absolutely hate that. It's my #1 gripe with regular keyboards by far that there are modifier keys inaccessible under the palm of your hand.
   - Ones that actually have keys near the thumb only have 1 or 2 often
   - I think I need at least 3 but could easily put 5 or 6 to good use
+- I kind of want something that might be easier to mount directly over the top of my thinkpad built-in laptop. Maybe something [like this](https://www.reddit.com/r/MechanicalKeyboards/comments/jkcbud/white_on_black_on_silver_on_laptop_introducing/)
 
 ## v4 Possibilities
 
