@@ -59,6 +59,13 @@ This repo serves 2 main purposes:
 
 # v3.2 (2020)
 
+- Bought and tried a keyboardio model 01
+- The large pinkie column offset was too different from the ergodox (and standard keyboards) for me to adjust to
+- I ended up typing one row too high on the pinkie column by accident
+- at some point may give it another go, but at that time I gave up and switched back to my ergodoxes
+
+# v3.3 (2020)
+
 - Learned about kmonad and started to replace my linux X11 utilities (setxkbmap, xmodmap, xbindkeys, xcape) with kmonad for thinkpad linux laptop keyboard stuff
 - Tried home row mod-taps
 - Had to use macos/macbook for work
