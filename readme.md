@@ -140,13 +140,13 @@ Is this available retail?
 ![longhorn](https://preview.redd.it/tpikmwi6kql51.jpg?width=960&crop=smart&auto=webp&s=b65a2fb4fbb834840d118e581198688bd1c95f1c)
 [reddit post](https://www.reddit.com/r/ErgoMechKeyboards/comments/io8dzf/longhorn_kb_build_httpsgithubcomtcolarlonghorn/)
 
-# v5 (2021?)
+# v5 Tractyl (2021?)
 
 I want to build something like this vertical dactyl manuform. The maker has extensive notes etc, but does indicate this is several months worth of weekends to tackle.
 
-![tractyl](https://preview.redd.it/dbd9c59529u51.jpg?width=960&height=735&crop=smart&auto=webp&s=0d2d7fbc077ac0108c1dd78e30b128a152b449ed)
+![tractyl](https://preview.redd.it/1k2lzwhqzqz51.jpg?width=1080&crop=smart&auto=webp&s=3feff33cddc8cacac8b4639859e10f0968631939)
 
-[reddit post](https://www.reddit.com/r/MechanicalKeyboards/comments/jep8gv/tractyl_manuform_dactyl_with_builtin_trackball/)
+[reddit post](https://www.reddit.com/r/ErgoMechKeyboards/comments/jvofrz/rebuild_finally_complete/?utm_source=share&utm_medium=web2x&context=3)
 
 # v9000
 
