@@ -140,6 +140,12 @@ Is this available retail?
 ![longhorn](https://preview.redd.it/tpikmwi6kql51.jpg?width=960&crop=smart&auto=webp&s=b65a2fb4fbb834840d118e581198688bd1c95f1c)
 [reddit post](https://www.reddit.com/r/ErgoMechKeyboards/comments/io8dzf/longhorn_kb_build_httpsgithubcomtcolarlonghorn/)
 
+# v3.5 (2020)
+
+Late game upset! After typing on the iris for a week I was having pain in my left thumb from keeping it in flexion above the middle thumb key. I think my only option to continue on the iris would be to rework my key mappings so that my thumb hovers on the innermost key and moves outward to hit the other ones, which would be a biggish muscle memory rework. That did not seem too desirable ergonomically. I had also been thinking about tracing the outline and making a full-hand case for it with my woodworking router, and I realized I was just basically trying to modify this iris so that it was like my ergodox. But the new QMK experience I gained gave me some good tools and a fresh perspective. I wanted to fix my errant touch typing on the pinky top row. I hadn't realized, but I have been typing the top row pinkie keys with my ring finger by reaching sideways, which I think the greater column stagger on the model 01 vs the ergodox might remedy. So I decided to pull my keyboardio model 01 out of the closet and over a 4-day weekend get my keymaps updated and spent some time typing and trying to fix those touch-typing habits. Sadly most typing programs don't use apostrophes much so I may need to find some more specialized drills to do.
+
+So back to the keyboardio model 01 again, but this time running custom QMK firmware instead of kaleidoscope/chrysalis.
+
 # v5 Tractyl (2021?)
 
 I want to build something like this vertical dactyl manuform. The maker has extensive notes etc, but does indicate this is several months worth of weekends to tackle.
