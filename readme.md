@@ -146,13 +146,19 @@ Late game upset! After typing on the iris for a week I was having pain in my lef
 
 So back to the keyboardio model 01 again, but this time running custom QMK firmware instead of kaleidoscope/chrysalis.
 
-# v5 Tractyl (2021?)
+# v5 Tractyl (nah)
+
+I was originally thinking of doing this but once I started prototyping the squeezebox I decided to focus on that instead.
 
 I want to build something like this vertical dactyl manuform. The maker has extensive notes etc, but does indicate this is several months worth of weekends to tackle.
 
 ![tractyl](https://preview.redd.it/1k2lzwhqzqz51.jpg?width=1080&crop=smart&auto=webp&s=3feff33cddc8cacac8b4639859e10f0968631939)
 
 [reddit post](https://www.reddit.com/r/ErgoMechKeyboards/comments/jvofrz/rebuild_finally_complete/?utm_source=share&utm_medium=web2x&context=3)
+
+# v5 Squeezebox DIY custom
+
+I'm currently prototyping a split vertical keyboard and the results are promising enough that I'm expecting to be able to have a working version in winter of 2021. I'm so excited about it that I'm waffling between sharing details publicly during development vs keeping quiet until I have something working and proven as a daily driver.
 
 # v9000
 
