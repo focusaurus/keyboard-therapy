@@ -82,6 +82,10 @@ So back to the keyboardio model 01 again, but this time running custom QMK firmw
 
 I grew quite frustrated with the mattias switches in the model 01. They were so flimsy and only actuated properly when struck from dead center above. I foolishly tried to lube them not knowing that they had a history of issues with liquid lube. After that I started to have issues with jitter and broken keys. I gave up and went back to my 2013 ergodox with full-hand case. I like the switches in there much better and I now had a much better toolbox in terms of QMK setup, leader keys with menuhammer, etc. I had no more need for dedicated function keys.
 
+# v3.7 (2021)
+
+Through many experiments with a keebio iris v4, a splitkb kyria, and 2 custom squeezebox prototypes I've overhauled my keymaps kind of a lot and reduced pinky usage a lot. Chording also reduced by a lot of one-shot modifiers. Still haven't been able to find anything that works better for me than my OG ergodox from 2013.
+
 # v5 Tractyl (nah)
 
 I was originally thinking of doing this but once I started prototyping the squeezebox I decided to focus on that instead.
